@@ -6,6 +6,8 @@
 - 🖥 Desenvolvendo projetos com Design UX/UI.
 - 📖 Aprendendo sobre Web e Java.
 
+</br>
+
 <div>
 <a href="https://github.com/jonhmatheus" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=jonhmatheus&show_icons=true&theme=react"target="_blank"></a> 
 </div>
