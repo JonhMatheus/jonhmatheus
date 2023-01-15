@@ -6,7 +6,10 @@
 - 🖥 Desenvolvendo projetos com Design UX/UI.
 - 📖 Aprendendo sobre Web e Java.
 
+<div>
+<a href="https://github.com/jonhmatheus" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=jonhmatheus&show_icons=true&theme=react"target="_blank"></a> 
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonh-AndroidStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Jonh-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
